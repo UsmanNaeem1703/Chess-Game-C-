@@ -1,0 +1,184 @@
+﻿  main.cpp
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\util.h(295,48): warning C4305: 'initializing': truncation from 'double' to 'float'
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\chess.h(778,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\chess.h(778,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\chess.h(779,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\chess.h(779,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\chess.h(809,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\chess.h(809,16): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\chess.h(1049,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\chess.h(1049,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\chess.h(1050,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\chess.h(1050,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\chess.h(1079,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\chess.h(1079,16): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\chess.h(1080,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\chess.h(1080,16): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\chess.h(1081,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\chess.h(1081,16): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\chess.h(1218,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\chess.h(1218,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\chess.h(1219,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\chess.h(1219,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\chess.h(1227,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\chess.h(1227,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\chess.h(1243,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\chess.h(1243,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\chess.h(1381,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\chess.h(1381,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\chess.h(1382,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\chess.h(1382,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\chess.h(1401,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\chess.h(1401,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\chess.h(1402,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\chess.h(1402,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\chess.h(1583,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\chess.h(1583,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\chess.h(1584,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\chess.h(1584,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\chess.h(1592,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\chess.h(1592,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\chess.h(1622,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\chess.h(1622,16): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\chess.h(1691,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\chess.h(1691,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\chess.h(1692,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\chess.h(1692,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\chess.h(1693,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\chess.h(1693,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\chess.h(1706,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\chess.h(1706,16): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\main.cpp(56,51): warning C4305: 'initializing': truncation from 'double' to 'float'
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\main.cpp(57,52): warning C4305: 'initializing': truncation from 'double' to 'float'
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\main.cpp(61,61): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\main.cpp(89,61): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\main.cpp(119,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\main.cpp(119,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\main.cpp(120,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\main.cpp(120,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\main.cpp(55,31): warning C4101: 'height': unreferenced local variable
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\main.cpp(55,24): warning C4101: 'width': unreferenced local variable
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\main.cpp(477,16): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\CImg.h(16232,45): warning C4319: '~': zero extending 'unsigned int' to 'double' of greater size
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\CImg.h(14785,1): message : while compiling class template member function 'unsigned int cimg_library::CImg<float>::_cimg_math_parser::compile(char *,char *,const unsigned int,unsigned int *const )'
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\CImg.h(14663,39): message : see reference to function template instantiation 'unsigned int cimg_library::CImg<float>::_cimg_math_parser::compile(char *,char *,const unsigned int,unsigned int *const )' being compiled
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\CImg.h(23037,1): message : see reference to class template instantiation 'cimg_library::CImg<float>::_cimg_math_parser' being compiled
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\CImg.h(23028,1): message : while compiling class template member function 'double cimg_library::CImg<float>::_eval(cimg_library::CImg<float> *const ,const char *const ,const double,const double,const double,const double,const cimg_library::CImgList<T> *const ,cimg_library::CImgList<T> *const ) const'
+          with
+          [
+              T=float
+          ]
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\CImg.h(23023,7): message : see reference to function template instantiation 'double cimg_library::CImg<float>::_eval(cimg_library::CImg<float> *const ,const char *const ,const double,const double,const double,const double,const cimg_library::CImgList<T> *const ,cimg_library::CImgList<T> *const ) const' being compiled
+          with
+          [
+              T=float
+          ]
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\CImg.h(34724,1): message : see reference to class template instantiation 'cimg_library::CImg<float>' being compiled
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\CImg.h(19524,1): message : see reference to class template instantiation 'cimg_library::CImg<double>' being compiled
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\CImg.h(52471,4): message : see reference to class template instantiation 'cimg_library::CImg<T>' being compiled
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\CImg.h(19228,1): warning C4319: '~': zero extending 'unsigned int' to 'double' of greater size
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\CImg.h(19226,1): message : while compiling class template member function 'double cimg_library::CImg<float>::_cimg_math_parser::mp_bitwise_not(cimg_library::CImg<float>::_cimg_math_parser &)'
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\CImg.h(16231,43): message : see reference to function template instantiation 'double cimg_library::CImg<float>::_cimg_math_parser::mp_bitwise_not(cimg_library::CImg<float>::_cimg_math_parser &)' being compiled
+  util.cpp
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\util.h(295,48): warning C4305: 'initializing': truncation from 'double' to 'float'
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\util.cpp(9,26): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\util.cpp(12,15): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\util.cpp(19,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\util.cpp(19,14): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\util.cpp(20,27): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\util.cpp(20,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\util.cpp(21,35): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\util.cpp(21,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\util.cpp(22,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\util.cpp(22,14): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\util.cpp(23,35): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\util.cpp(23,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\util.cpp(24,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\util.cpp(24,14): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\util.cpp(61,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\util.cpp(109,14): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\util.cpp(113,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\util.cpp(113,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\util.cpp(114,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\util.cpp(114,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\util.cpp(167,17): warning C4305: '*=': truncation from 'double' to 'float'
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\util.cpp(172,57): warning C4305: 'initializing': truncation from 'double' to 'float'
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\util.cpp(261,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\util.cpp(273,3): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\util.cpp(273,3): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\util.cpp(273,24): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\util.cpp(273,24): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\util.cpp(322,42): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\util.cpp(322,27): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\util.cpp(326,44): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\util.cpp(326,28): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\util.cpp(334,42): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\util.cpp(334,26): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\util.cpp(337,42): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\util.cpp(337,26): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\util.cpp(343,43): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\util.cpp(343,27): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\util.cpp(347,41): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\util.cpp(347,26): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\util.cpp(351,49): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\util.cpp(351,30): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\util.cpp(355,47): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\util.cpp(355,29): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\util.cpp(363,49): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\util.cpp(363,30): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\util.cpp(367,47): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\util.cpp(367,29): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\util.cpp(383,41): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\util.cpp(383,26): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\util.cpp(390,47): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\util.cpp(390,29): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\util.cpp(397,49): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\util.cpp(397,30): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\util.cpp(404,43): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\util.cpp(404,27): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\util.cpp(411,33): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\util.cpp(410,43): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\util.cpp(423,42): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\util.cpp(423,26): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\util.cpp(425,40): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\util.cpp(425,25): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\util.cpp(428,46): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\util.cpp(428,28): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\util.cpp(430,48): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\util.cpp(430,29): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\util.cpp(443,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\util.cpp(443,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\util.cpp(444,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\util.cpp(444,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\util.cpp(445,34): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\util.cpp(445,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\util.cpp(446,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\util.cpp(446,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\util.cpp(447,34): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\util.cpp(447,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\util.cpp(448,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\util.cpp(448,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\CImg.h(16232,45): warning C4319: '~': zero extending 'unsigned int' to 'double' of greater size
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\CImg.h(14785,1): message : while compiling class template member function 'unsigned int cimg_library::CImg<float>::_cimg_math_parser::compile(char *,char *,const unsigned int,unsigned int *const )'
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\CImg.h(14663,39): message : see reference to function template instantiation 'unsigned int cimg_library::CImg<float>::_cimg_math_parser::compile(char *,char *,const unsigned int,unsigned int *const )' being compiled
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\CImg.h(23037,1): message : see reference to class template instantiation 'cimg_library::CImg<float>::_cimg_math_parser' being compiled
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\CImg.h(23028,1): message : while compiling class template member function 'double cimg_library::CImg<float>::_eval(cimg_library::CImg<float> *const ,const char *const ,const double,const double,const double,const double,const cimg_library::CImgList<T> *const ,cimg_library::CImgList<T> *const ) const'
+          with
+          [
+              T=float
+          ]
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\CImg.h(23023,7): message : see reference to function template instantiation 'double cimg_library::CImg<float>::_eval(cimg_library::CImg<float> *const ,const char *const ,const double,const double,const double,const double,const cimg_library::CImgList<T> *const ,cimg_library::CImgList<T> *const ) const' being compiled
+          with
+          [
+              T=float
+          ]
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\CImg.h(34724,1): message : see reference to class template instantiation 'cimg_library::CImg<float>' being compiled
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\CImg.h(19524,1): message : see reference to class template instantiation 'cimg_library::CImg<double>' being compiled
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\CImg.h(52471,4): message : see reference to class template instantiation 'cimg_library::CImg<T>' being compiled
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\CImg.h(19228,1): warning C4319: '~': zero extending 'unsigned int' to 'double' of greater size
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\CImg.h(19226,1): message : while compiling class template member function 'double cimg_library::CImg<float>::_cimg_math_parser::mp_bitwise_not(cimg_library::CImg<float>::_cimg_math_parser &)'
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\CImg.h(16231,43): message : see reference to function template instantiation 'double cimg_library::CImg<float>::_cimg_math_parser::mp_bitwise_not(cimg_library::CImg<float>::_cimg_math_parser &)' being compiled
+  Generating Code...
+G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\Final Project\chess.h(639): warning C4715: 'causeCheck': not all control paths return a value
+  Final Project.vcxproj -> G:\My Drive\Semester 02\OOP\Final Project\Final Project-- - Copy\x64\Debug\Final Project.exe
+          1 file(s) copied.
